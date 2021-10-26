@@ -1,0 +1,102 @@
+Time Start : 26.10.2021 18:32:11
+Time End : 26.10.2021 18:32:29
+difference - 00:00:18.1515766
+GetTotalMemory - 84800
+GetTotalMemory - 1653464880
+------------------------
+Time Start : 26.10.2021 18:34:07
+Time End : 26.10.2021 18:34:24
+difference - 00:00:17.4151006
+GetTotalMemory - 84752
+GetTotalMemory - 1653464832
+------------------------
+Time Start : 26.10.2021 18:51:48
+Time End : 26.10.2021 18:52:01
+difference - 00:00:13.0165622
+GetTotalMemory - 84752
+GetTotalMemory - 2158472248
+------------------------
+Time Start : 26.10.2021 18:53:22
+Time End : 26.10.2021 18:53:35
+difference - 00:00:13.0991603
+GetTotalMemory - 84712
+GetTotalMemory - 2203961976
+------------------------
+Time Start : 26.10.2021 19:54:08
+Time End : 26.10.2021 19:54:22
+difference - 00:00:14.0825322
+GetTotalMemory - 84752
+GetTotalMemory - 2261050152
+------------------------
+Time Start : 26.10.2021 20:16:30
+Time End : 26.10.2021 20:16:43
+difference - 00:00:13.4928657
+GetTotalMemory - 85904
+GetTotalMemory - 2158277904
+------------------------
+Time Start : 26.10.2021 20:17:01
+Time End : 26.10.2021 20:17:15
+difference - 00:00:13.4865071
+GetTotalMemory - 85968
+GetTotalMemory - 2222233760
+------------------------
+Time Start : 26.10.2021 20:22:44
+Time End : 26.10.2021 20:22:44
+difference - 00:00:00.0045267
+GetTotalMemory - 102328
+GetTotalMemory - 118712
+------------------------
+Time Start : 26.10.2021 20:24:14
+Time End : 26.10.2021 20:24:14
+difference - 00:00:00.0043874
+GetTotalMemory - 102328
+GetTotalMemory - 118712
+------------------------
+Time Start : 26.10.2021 20:25:03
+Time End : 26.10.2021 20:25:03
+difference - 00:00:00.0045695
+GetTotalMemory - 102328
+GetTotalMemory - 118712
+------------------------
+Time Start : 26.10.2021 20:25:43
+Time End : 26.10.2021 20:25:43
+difference - 00:00:00.0044141
+GetTotalMemory - 102360
+GetTotalMemory - 118744
+------------------------
+Time Start : 26.10.2021 20:25:53
+Time End : 26.10.2021 20:25:53
+difference - 00:00:00.0045455
+GetTotalMemory - 102360
+GetTotalMemory - 118744
+------------------------
+Time Start : 26.10.2021 20:26:43
+Time End : 26.10.2021 20:26:43
+difference - 00:00:00.0047109
+GetTotalMemory - 102328
+GetTotalMemory - 118712
+------------------------
+Time Start : 26.10.2021 20:36:47
+Time End : 26.10.2021 20:36:47
+difference - 00:00:00.0041188
+GetTotalMemory - 85944
+GetTotalMemory - 102328
+------------------------
+Time Start : 26.10.2021 20:38:09
+Time End : 26.10.2021 20:38:09
+difference - 00:00:00.0044301
+GetTotalMemory - 85944
+GetTotalMemory - 102328
+------------------------
+Time Start : 26.10.2021 20:39:24
+Time End : 26.10.2021 20:39:24
+difference - 00:00:00.0042457
+GetTotalMemory - 85944
+GetTotalMemory - 102328
+------------------------
+Time Start : 26.10.2021 20:40:25
+Time End : 26.10.2021 20:40:25
+difference - 00:00:00.0042827
+GetTotalMemory - 85944
+GetTotalMemory - 102328
+------------------------
