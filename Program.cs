@@ -32,6 +32,7 @@ namespace _26._10
                 }
              Logger.Push("lisst 10 create");
             string falsse = (GC.GetTotalMemory(false)).ToString();
+            
             //Console.WriteLine(DateTime.Now);
             for (var i = 0; i < listUser.Count; i++)
             {
